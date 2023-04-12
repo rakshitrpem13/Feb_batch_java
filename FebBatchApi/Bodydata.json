@@ -1,0 +1,12 @@
+{
+"firstname":"gaurav",
+"lastname":"nitin",
+"id":"{{id}}",
+"designation":"TL",
+"addressinformation":
+{
+"wardno":"22",
+"swctor":"94",
+"housenp":"1234"
+}
+}
